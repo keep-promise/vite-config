@@ -6,9 +6,6 @@ import viteCompression from 'vite-plugin-compression';
 import viteImagemin from 'vite-plugin-imagemin'; // 图片压缩
 import { resolve } from 'path';
 
-npm install eslint eslint-plugin-react @typescript-eslint/parser @typescript-eslint/eslint-plugin eslint-config-standard eslint-plugin-import eslint-plugin-promise eslint-plugin-node -D
-
-
 // https://vitejs.dev/config/
 export default defineConfig({
   // 默认 / 开头
